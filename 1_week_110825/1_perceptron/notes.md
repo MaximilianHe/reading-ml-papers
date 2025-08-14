@@ -1,5 +1,8 @@
 # THE PERCEPTRON: A PROBABILISTIC  MODEL  FOR INFORMATION STORAGE AND  ORGANIZATION IN THE BRAIN
 
+## GPT prompts
+https://chatgpt.com/share/689db2dc-9000-800c-953c-60e4be669e8c
+
 ## Questions
 
 1) **What did the authors try to accomplish?** <br>
